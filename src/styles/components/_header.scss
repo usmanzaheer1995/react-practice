@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 4rem;
+    height: 4rem;
+    background-color: whitesmoke;
+
+    &__login {
+        flex: 0 0 6%;
+    }
+}
